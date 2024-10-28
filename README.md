@@ -8,6 +8,6 @@ git config --global credential.helper store
 git clone https://github.com/lostar01/go-workspace.git
 
 # 启动
-devpod up https://github.com/lostar01/go-workspace.git --ide=none --id=alvin-go-workspace
+devpod up https://github.com/lostar01/go-workspace.git --ide=none --id=zack-go-workspace
 
 ```
