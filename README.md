@@ -1,6 +1,11 @@
 # go-workspace
 
 ```
+# Install devpod
+wget https://github.com/loft-sh/devpod/releases/download/v0.5.21/devpod-linux-amd64
+mv devpod-linux-amd64 /usr/local/bin/devpod
+chmod a+x /usr/local/bin/devpod
+
 # 自动保存git凭证
 git config --global credential.helper store
 
